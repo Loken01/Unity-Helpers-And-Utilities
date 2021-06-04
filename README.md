@@ -1,4 +1,6 @@
 # Unity Utilities
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A series of helpers, extension methods, and utilities I use in every project.
 
 **How to use:**<br/>
