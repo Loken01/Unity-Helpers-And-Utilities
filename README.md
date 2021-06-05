@@ -4,7 +4,10 @@
 A series of helpers, extension methods, and utilities I use in every project.
 
 **How to use:**<br/>
-To use, download zip or clone the repo, and place the files anywhere within your Unity project.
+- Download zip or clone the repo, and place the files anywhere within your Unity project.
+- Or, if you have git installed on your system, you can [install the repo via the unity package manager using a git URL.](https://docs.unity3d.com/Manual/upm-ui-giturl.html)
+
+<br/>
 
 A number of these utilities are extension methods, so you can call them in 2 ways: (Using `ColorUtils.ChangeAlpha` as an example)
 <br/>
